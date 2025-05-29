@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="center">👋 Hey there! I'm Charbel Ghanem</h1>
 
-<!--
-**bmislol/bmislol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Graduate @ Lebanese International University (Graduating June 2025)  
+💡 Passionate about Software Development and Game Creation  
+👨‍💻 Skilled in Python, Java, and Web Technologies  
+🛠️ Always learning, improving, and exploring new tech — currently diving into Game Development
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔥 What I Do
+
+- 🧠 **Software Engineering** – Backend development, web applications, problem solving  
+- 🌐 **Web Development** – HTML, CSS, JavaScript, PHP  
+- 🎮 **Game Development** – Focused on creating 2D games using engines like Godot  
+- 📈 **Optimization & Scheduling** – Constraint Programming with Google OR-Tools  
+- 🧑‍💻 **Always Improving** – Exploring new tools, refining my skills, building projects that matter  
+- 📧 **Email**: ghanemcharbel219@gmail.com  
+- 🧠 **GitHub**: [github.com/bmislol](https://github.com/bmislol)
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bmislol&show_icons=true&theme=radical" alt="bmislol's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmislol&layout=compact&theme=radical"/>
+</p>

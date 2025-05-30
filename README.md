@@ -37,9 +37,10 @@
 </p>
 
 ---
-
+<!--
 ### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bmislol&show_icons=true&theme=radical" alt="bmislol's GitHub stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmislol&layout=compact&theme=radical"/>
 </p>
+!-->

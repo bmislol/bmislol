@@ -14,7 +14,7 @@
 - 🎮 **Game Development** – Focused on creating 2D games using engines like Godot  
 - 📈 **Optimization & Scheduling** – Constraint Programming with Google OR-Tools  
 - 🧑‍💻 **Always Improving** – Exploring new tools, refining my skills, building projects that matter  
-- 📧 **Email**: ghanemcharbel219@gmail.com
+- 📧 **Email**: charbelghanem219@gmail.com
 - 🔗 **LinkedIn**: [linkedin.com/in/ghanemch](https://linkedin.com/in/ghanemch)
 - 🧠 **GitHub**: [github.com/bmislol](https://github.com/bmislol)
 
